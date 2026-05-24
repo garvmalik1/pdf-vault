@@ -5,3 +5,17 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/garvmalik1/pdf-vault.git
 git push -u origin main
+
+Color scheme for Carrd website
+Background
+
+#D6A77A
+
+Central Box
+
+#394457
+
+Text
+Primary: #FFFFFF
+Secondary: #CFD6E2
+Accent: #FFCEA8
